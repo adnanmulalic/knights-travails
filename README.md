@@ -1,13 +1,11 @@
 # knights-travails
 Knight travails practice project from The Odin Project
+Link: https://www.theodinproject.com/lessons/javascript-knights-travails
 
 For this project, you’ll need to use a graph, a data structure that’s similar (but not identical) to a binary tree. For a good introduction on what graphs are, reference Khan Academy’s “Describing Graphs”. Don’t forget to look at the section on representing graphs, as it should give you some good ideas on how to actually implement graphs in your code.
 
 Given enough turns, a knight on a standard 8x8 chess board can move from any square to any other square. Its basic move is two steps forward and one step to the side or one step forward and two steps to the side. It can face any direction.
 
-All the possible places you can end up after one move look like this:
-
-Knights Travails board Note: The picture is only to explain the problem, There is no need to create a GUI.
 Assignment
 
 Your task is to build a function knightMoves that shows the shortest possible way to get from one square to another by outputting all squares the knight will stop on along the way.
